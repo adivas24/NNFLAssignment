@@ -6,7 +6,10 @@ PyTorch implementation for MNIST with feature matching: https://github.com/Sleep
 If you plan to use colab. Use these commands:
 `
 !git clone https://github.com/Sleepychord/ImprovedGAN-pytorch.git
+
 %cd /content/ImprovedGAN-pytorch
+
 !pip3 install tensorboardX
+
 !python3 ImprovedGAN.py --cuda
 `
